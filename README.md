@@ -1,4 +1,4 @@
-# Quantum-Battle-of-The-Sexes
+# Quantum Battle of The Sexes
 Quantum version of "the battle of the sexes" from game theory. This program runs series of experiments on a quantum computer simulator with a given degree of quantum entanglement (see reference). Output is a plot of players' average payoff versus entanglement degree.
 
 ## Reference
